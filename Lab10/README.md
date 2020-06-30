@@ -10,5 +10,6 @@
 | --- | --- |
 |Arduino UNO利用計時器顯示電子鐘於四合一七節顯示器上，並且能整合開關調整時間顯示模式。|1.使用四合一七節顯示器來顯示現在時刻，顯示格式為”時時:分分”<br>2.程式執行後七節顯示器顯示"00:00"，開關1壓下放開，顯示“時時:分分”，再壓一次放開顯示 “分分:秒秒”，預設一開始顯示“分分:秒秒”。(請自行計時，勿使用time.h的參數，hour(), second()等)|
 
-###　FlexiTimer2 Library
+----
+FlexiTimer2 Library
 https://github.com/wimleers/flexitimer2
